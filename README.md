@@ -46,7 +46,6 @@ mclaren-website/
 │── style.css
 │── script.js
 │── images/
-│ └── cars/
 │── videos/
 
 ---
@@ -65,7 +64,7 @@ The project is deployed as a static website on Vercel.
 
 ---
 
-##📌 Disclaimer
+## 📌 Disclaimer
 This project is created for educational and portfolio purposes only.
 All trademarks, logos, images, and videos belong to McLaren Automotive Ltd.
 No copyright infringement intended.
